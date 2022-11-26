@@ -1,0 +1,11 @@
+.problem2{color:black; background-color:navy; border:10px solid yellow;max-width:400px;color:white;padding:5px;padding-right:10px;border-radius:25px;}
+.problem2 label.title{outline:solid 7px yellow;color:black; background-color:yellow; float:left; text-align:center; width:400px;border:solid yellow 5px;font-size:1.5em;margin-bottom:5px;}
+.problem2 label.input{float:left; width:130px;color:black;margin-top:5px;color:white;font-weight: bold;}
+.problem2 label.output1{float:left; width:130px;color:red;}
+.problem2 label.output2{float:left; width:130px;font-weight: bold;}
+.problem2 div{text-align: center;}
+.problem2 br{clear:both;}
+.problem2 .one,select{color:white;background-color:black; border:4px solid yellow; max-width:150px; float:left;border-radius:25px;margin-top:5px;padding:4px;font-weight: bold;}
+.problem2 .two{background-color:yellow; border:4px solid black; margin:2px; max-width:150px; float:left;border-radius:25px;padding:4px;font-weight: bold;}
+.problem2 .one2{background-color:red;border:4px solid black;color:white;border-radius:25px;font-weight: bold;}
+.problem2 .two2{border:4px solid yellow;background:black;color:lightblue;border-radius:25px;font-weight: bold;font-size:1.2em}
